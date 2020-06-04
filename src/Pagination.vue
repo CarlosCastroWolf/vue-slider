@@ -147,7 +147,7 @@ export default {
 <style scoped>
 .VueCarousel-pagination {
   width: 100%;
-  text-align: center;
+  text-align: left;
 }
 
 .VueCarousel-pagination--top-overlay {
@@ -158,7 +158,6 @@ export default {
 .VueCarousel-pagination--bottom-overlay {
   position: absolute;
   bottom: 0;
-  left: 0;
 }
 
 .VueCarousel-dot-container {
